@@ -4,6 +4,10 @@
 
 **Software / 소프트웨어: CashData (캐시데이터)**
 
+**Agreement version / 계약 버전: 2026-09-07.1 (Asia/Seoul)**
+
+**Important terms / 주요 조건:** The account and device limits in Article 1, restrictions on disclosure and copying in Articles 2–3, compliance audit in Article 4, five-fold contractual penalty subject to the conditions in Article 5, and termination and removal duties in Article 6 are material terms. Read the full clauses before agreeing. 제1조의 계정·기기 제한, 제2–3조의 유출·복제 금지, 제4조의 준수 감사, 제5조의 적용 조건을 갖춘 5배 위약벌 및 제6조의 종료·삭제 의무는 중요한 조건입니다. 동의 전에 각 조항의 전체 내용과 적용 조건을 확인하십시오.
+
 This Agreement governs CashData, the overseas product sourcing and marketplace sales automation desktop application, including its proprietary desktop components, bundled API, documentation, and updates (the "Software"). It is an agreement between Lamy Solution (the "Supplier") and the individual or organization authorized to use the Software (the "Customer").
 
 본 계약은 해외 상품 소싱 및 오픈마켓 판매 자동화 데스크탑 애플리케이션인 CashData(캐시데이터)의 사용에 적용됩니다. 소프트웨어에는 공급사가 권리를 보유한 데스크탑 구성 요소, 동봉 API, 문서 및 업데이트가 포함됩니다. 계약 당사자는 Lamy Solution(이하 "공급사")과 사용을 허가받은 개인 또는 조직(이하 "고객")입니다.
@@ -11,6 +15,10 @@ This Agreement governs CashData, the overseas product sourcing and marketplace s
 The Customer must read and agree to this Agreement before installing, copying, or using the Software. A publicly available installer or update does not grant an unrestricted, transferable, or open-source license. If the Customer does not agree, the Customer must not install or use the Software and must delete any copies obtained, subject to applicable law.
 
 고객은 소프트웨어를 설치·복제·사용하기 전에 본 계약을 읽고 동의해야 합니다. 설치 파일이나 업데이트가 공개되어 있다는 사실만으로 무제한 이용권, 양도권 또는 오픈소스 라이선스가 부여되지 않습니다. 동의하지 않는 고객은 설치·사용을 중단하고 관계 법령에 따라 취득한 복사본을 삭제해야 합니다.
+
+Acceptance must be an affirmative act by the Customer or a representative authorized to bind the Customer. A silent installation, automatic download, or mere receipt of an update is not acceptance of revised terms. Revised terms must be presented for acceptance before use of the version to which they apply, subject to legally required notice and procedures; they do not apply retroactively. The applicable agreement and its version must remain available to the Customer.
+
+동의는 고객 본인 또는 고객을 대신하여 계약을 체결할 권한이 있는 자의 명시적인 행위로 이루어져야 합니다. 무인 설치, 자동 다운로드 또는 업데이트를 받았다는 사실만으로 변경 약관에 동의한 것으로 간주하지 않습니다. 변경 약관은 법정 고지와 절차를 준수하여 해당 버전 사용 전에 제시하고 동의를 받아야 하며, 소급 적용하지 않습니다. 고객이 적용 약관과 그 버전을 계속 확인할 수 있도록 제공해야 합니다.
 
 This Agreement is governed by the laws of the Republic of Korea. Mandatory provisions of applicable law prevail over conflicting terms. The Korean text prevails if the Korean and English texts differ. Separate terms expressly agreed in writing, including electronic documents, prevail for the matters they specifically address.
 
@@ -44,11 +52,19 @@ This Agreement is governed by the laws of the Republic of Korea. Mandatory provi
 
 **양도·재배포·복제.** 공급사의 사전 서면 허가 없이 소프트웨어나 독점 코드의 재라이선스, 임대, 대여, 판매, 재배포, 미러링, 양도 또는 계열사·제3자에 대한 공개를 금지합니다. 허가된 설치와 공식 업데이트에 필요한 복사본 외에는 관계 법령에 따라 공급사가 승인한 백업 1부만 허용합니다. 공급사의 공식 다운로드 페이지 링크를 안내하는 행위가 설치 파일의 재배포를 허용하거나 수신자에게 사용권을 부여하지는 않습니다.
 
+**Protection of proprietary materials and notices.** Without prior written authorization, the Customer must not upload or transmit proprietary code or confidential technical materials to a public or shared repository, code-analysis service, generative AI service, model-training system, or another third party; assist another person in prohibited extraction or disclosure; remove or falsify copyright, authorship, license, or integrity notices; or distribute an unauthorized modified, rebranded, or repackaged version. This restriction does not prohibit independently developed functionality, lawful use of public information, or use of third-party components under their own licenses.
+
+**독점 자료와 권리 표시 보호.** 사전 서면 승인 없이 독점 코드나 비공개 기술자료를 공개·공유 저장소, 코드 분석 서비스, 생성형 AI 서비스, 모델 학습 시스템 또는 다른 제3자에게 업로드·전송하거나, 타인의 금지된 추출·유출을 돕거나, 저작권·작성자·라이선스·무결성 표시를 제거·위조하거나, 무단 수정본·상표 변경본·재포장본을 배포해서는 안 됩니다. 독립적으로 개발한 기능, 공개 정보의 적법한 이용 또는 제3자 라이선스에 따른 구성 요소 이용은 이 제한의 대상이 아닙니다.
+
 ## Article 3 — Confidentiality and Third-Party Rights / 제3조 — 비밀유지 및 제3자 권리
 
 **Confidential information.** Non-public source code, internal database designs, algorithms, protocols, credentials, and other proprietary technical information disclosed confidentially or obtained through unauthorized analysis must not be disclosed or used outside the authorized purpose. Information qualifies for statutory trade-secret protection only when the legal requirements are met. Publication of an installer does not publish the private source repository or grant rights to its contents.
 
 **비공개 정보.** 비밀로 제공되거나 무단 분석으로 취득한 비공개 소스코드·내부 데이터베이스 설계·알고리즘·프로토콜·자격증명 등 공급사의 독점 기술정보를 허가 목적 외에 사용하거나 공개해서는 안 됩니다. 법률상 영업비밀 보호는 해당 법적 요건을 충족하는 정보에 적용됩니다. 설치 파일의 공개는 비공개 소스 저장소의 공개나 그 내용에 관한 권리 허가를 의미하지 않습니다.
+
+**Safeguarding and incident response.** The Customer must limit access to authorized persons who need the confidential information for the approved purpose and impose appropriate confidentiality duties on them. On learning of unauthorized acquisition, disclosure, or copying, the Customer must notify the Supplier through the established support or contractual contact without undue delay, stop further dissemination within its control, and reasonably cooperate in lawful preservation of relevant evidence and removal of unauthorized copies. Notification and cooperation do not authorize invasive device access, destruction of evidence, or disclosure of unrelated personal or third-party confidential data.
+
+**보호 및 유출 대응.** 고객은 허가 목적에 필요한 권한 있는 사람에게만 비공개 정보 접근을 허용하고 적절한 비밀유지 의무를 부과해야 합니다. 무단 취득·유출·복제를 알게 되면 부당한 지체 없이 기존 고객지원 또는 계약상 연락 경로로 공급사에 알리고, 통제 가능한 추가 확산을 중단하며, 관련 증거의 적법한 보존과 무단 복사본 제거에 합리적으로 협조해야 합니다. 이 의무가 기기에 대한 침해적 접근, 증거 파기 또는 무관한 개인정보·제3자 비밀정보의 공개를 허용하지는 않습니다.
 
 **Third-party components and business data.** This Agreement applies to rights held by the Supplier. Open-source and other third-party components remain subject to their own licenses and notices; this Agreement does not restrict rights granted under those licenses. Rights in customer-provided data and content obtained from sourcing or sales channels are determined by applicable law and the relevant rights holders' terms, and are not transferred to the Supplier merely by this Agreement.
 
