@@ -4,13 +4,13 @@
 
 **Software / 소프트웨어: CashData (캐시데이터)**
 
-**Agreement version / 계약 버전: 2026-09-07.1 (Asia/Seoul)**
+**Agreement version / 계약 버전: 2026-09-08.1 (Asia/Seoul)**
 
 **Important terms / 주요 조건:** The account and device limits in Article 1, restrictions on disclosure and copying in Articles 2–3, compliance audit in Article 4, five-fold contractual penalty subject to the conditions in Article 5, and termination and removal duties in Article 6 are material terms. Read the full clauses before agreeing. 제1조의 계정·기기 제한, 제2–3조의 유출·복제 금지, 제4조의 준수 감사, 제5조의 적용 조건을 갖춘 5배 위약벌 및 제6조의 종료·삭제 의무는 중요한 조건입니다. 동의 전에 각 조항의 전체 내용과 적용 조건을 확인하십시오.
 
-This Agreement governs CashData, the overseas product sourcing and marketplace sales automation desktop application, including its proprietary desktop components, bundled API, documentation, and updates (the "Software"). It is an agreement between Lamy Solution (the "Supplier") and the individual or organization authorized to use the Software (the "Customer").
+This Agreement governs CashData, the overseas product sourcing and marketplace sales automation desktop application, including its proprietary desktop components, bundled local components, documentation, updates, and authorized access to Supplier-hosted server API services (the "Software"). It is an agreement between Lamy Solution (the "Supplier") and the individual or organization authorized to use the Software (the "Customer").
 
-본 계약은 해외 상품 소싱 및 오픈마켓 판매 자동화 데스크탑 애플리케이션인 CashData(캐시데이터)의 사용에 적용됩니다. 소프트웨어에는 공급사가 권리를 보유한 데스크탑 구성 요소, 동봉 API, 문서 및 업데이트가 포함됩니다. 계약 당사자는 Lamy Solution(이하 "공급사")과 사용을 허가받은 개인 또는 조직(이하 "고객")입니다.
+본 계약은 해외 상품 소싱 및 오픈마켓 판매 자동화 데스크탑 애플리케이션인 CashData(캐시데이터)의 사용에 적용됩니다. 소프트웨어에는 공급사가 권리를 보유한 데스크탑 구성 요소, 동봉 로컬 구성 요소, 문서, 업데이트 및 공급사가 호스팅하는 서버 API 서비스의 허가된 이용이 포함됩니다. 계약 당사자는 Lamy Solution(이하 "공급사")과 사용을 허가받은 개인 또는 조직(이하 "고객")입니다.
 
 The Customer must read and agree to this Agreement before installing, copying, or using the Software. A publicly available installer or update does not grant an unrestricted, transferable, or open-source license. If the Customer does not agree, the Customer must not install or use the Software and must delete any copies obtained, subject to applicable law.
 
