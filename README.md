@@ -15,4 +15,4 @@ Windows 64비트용 설치 파일은 Releases에서 제공합니다.
 
 ## 라이선스
 
-CashData의 공급사·저작권자는 Lamy Solution입니다. 설치·사용 전에 [소프트웨어 라이선스 계약서](LICENSE.md)를 확인하세요. 각 릴리스에 첨부된 LICENSE.md에서 해당 버전의 계약서도 확인할 수 있습니다.
+CashData의 공급사·저작권자는 Lamy Solution입니다. 설치·사용 전에 [소프트웨어 라이선스 계약서](LICENSE.md)를 확인하세요. 각 버전의 설치 안내에서도 해당 버전의 계약서를 확인할 수 있습니다.
