@@ -2,7 +2,7 @@
 
 [최신 Windows 설치 파일 다운로드](https://github.com/LamyTeam/cashdata-desktop/releases/latest)
 
-Windows 64비트용 설치 파일은 Releases에서 제공합니다.
+Windows 64비트용 설치 파일은 Releases에서 제공합니다. 설치 파일은 코드 서명되지 않아 Windows에서 알 수 없는 게시자 또는 SmartScreen 경고가 표시될 수 있습니다.
 
 ## 설치와 업데이트
 
